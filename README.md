@@ -1,4 +1,4 @@
-### README.md for Renewed Phone customized by Wahyu Adi ("4.0 INSPIRED")
+### README.md for Renewed Phone ("4.0 INSPIRED")
 
 #### GPL v3 Compliant Distribution Notification
 
